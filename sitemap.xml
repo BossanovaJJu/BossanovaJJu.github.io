@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/jjuice/</loc>
-    <lastmod>2019-12-12T12:15:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-12-12T12:15:16+09:00</lastmod>
+    <lastmod>2020-04-21T17:40:14+09:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-12-12T12:15:16+09:00</lastmod>
+    <lastmod>2020-04-21T17:40:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/laravel/using-react-in-laravel/</loc>
+    <lastmod>2020-04-21T17:40:14+09:00</lastmod>
   </url>
   
   <url>
