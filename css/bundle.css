@@ -385,6 +385,9 @@ blockquote {
 	padding: 0 1rem;
 	border-left: 5px solid #f8ae00;
 }
+blockquote p {
+	color: #7C7C7C;
+}
 
 blockquote footer {
 	text-align: right;
