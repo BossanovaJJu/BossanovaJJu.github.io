@@ -17,7 +17,8 @@
       <pubDate>Tue, 21 Apr 2020 17:40:14 +0900</pubDate>
       
       <guid>/post/laravel/using-react-in-laravel/</guid>
-      <description>Using React in a Laravel application 참조 내용 Using React in a Laravel application 원문 컨텐츠를 읽어보고 예제를 따라해보면서 관련 내용과 제 생각과 피드백을 적어보았습니다. 많이 부족하지만 재미있게 봐주세요!
+      <description>Using React in a Laravel application 
+참조 내용 Using React in a Laravel application 원문 컨텐츠를 읽어보고 예제를 따라해보면서 관련 내용과 제 생각과 피드백을 적어보았습니다. 많이 부족하지만 재미있게 봐주세요!
  여기의 글들은 제가 느끼고 생각하는 것들에 대해 이야기하는 글들이니 말투가 친절하지 않더라도 이해해주세요.^^
  시작하기에 앞서.. 제가 생각하는 라라벨은 백엔드와 관련되어 DB의 데이터를 더 쉽게 컨트롤 할 수 있고 라라벨에서 지원하는 각종 기능과 함수들로 더 빠르게 어플리케이션을 만들 수 있게 도와주는 프레임워크 같습니다.</description>
     </item>
